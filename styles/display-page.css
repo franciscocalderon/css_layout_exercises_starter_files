@@ -2,7 +2,7 @@ div{
 	border: 1px solid black;
 }
 
-div.root{
+div.root, div.top, div.bottom{
 	border: none;
 }
 
